@@ -1,0 +1,2 @@
+D:\Информатика проекты\tema 18-cp1\работа в классе №2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Информатика проекты\tema 18-cp1\работа в классе №2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
